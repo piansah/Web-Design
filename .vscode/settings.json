@@ -1,22 +1,22 @@
 {
-    "editor.fontSize": 12,
-    "window.zoomLevel": 1,
-    "terminal.integrated.fontSize": 12,
-    "workbench.iconTheme": "chalice-icon-theme",
-    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
-    "sqltools.connections": [
-        {
-            "mysqlOptions": {
-                "authProtocol": "default"
-            },
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 3306,
-            "driver": "MySQL",
-            "name": "MySQLConnection",
-            "database": "db_sql",
-            "username": "root",
-            "password": "password"
-        }
-    ]
+  "editor.fontSize": 12,
+  "window.zoomLevel": 1,
+  "terminal.integrated.fontSize": 12,
+  "workbench.iconTheme": "chalice-icon-theme",
+  "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "MySQLConnection",
+      "database": "db_sql",
+      "username": "root",
+      "password": "password"
+    }
+  ]
 }
