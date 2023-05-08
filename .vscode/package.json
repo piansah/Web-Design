@@ -1,0 +1,23 @@
+{
+  "name": "sc1_pian_20102007",
+  "version": "1.0.0",
+  "description": "Pak agus beli sepatu bekas ||\r Lihat udin makan kedong-dong ||\r kalo kalian mau copas ||\r bilang-bilang dong ||",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/piansah/sc1_pian_20102007.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/piansah/sc1_pian_20102007/issues"
+  },
+  "homepage": "https://gitlab.com/piansah/sc1_pian_20102007#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "jquery": "^3.6.1"
+  }
+}
